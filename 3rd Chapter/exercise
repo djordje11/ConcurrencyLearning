@@ -1,0 +1,5 @@
+1. istrazi lock algoritma i ako implementiraj ga
+2. implementiraj unique_lock, lock_guard class-e
+3. istrazi std::call_once zasto postoji, i kako je implementiran
+4. u funkciji isprobaj staticku deklaraciju, da je vise niti pokrene
+5. dns implementacija sa reader-writer mutexima
