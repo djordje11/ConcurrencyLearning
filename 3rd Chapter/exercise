@@ -2,4 +2,4 @@
 2. implement unique_lock, lock_guard your versions --- solved 
 3. investigate why std::call_once exists, and investigate implementation and implement your own version --- solved
 4. statical declaration in function, with multiple thread, see how it's work  --- solved
-5. dns implementation with reader-writer mutex's
+5. dns implementation with reader-writer mutex's --- solved
