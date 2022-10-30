@@ -5,4 +5,4 @@
 5. implement chain exception propagation (111 end page)
 6. make example of shared_future continuation (113 page)
 7. wait for more futures (114), divide vector of 50 elements to 5 thread to calculate
-    sum of 10 elements
+    sum of 10 elements  --- solved
