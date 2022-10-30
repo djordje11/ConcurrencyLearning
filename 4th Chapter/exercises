@@ -1,1 +1,8 @@
 1. implement your version of condition_variable
+2. implement your version of std::future
+3. handle exception in std::experimental::future in then(function) (109 page)
+4. implement std::async for std::experimental::future (110 page)
+5. implement chain exception propagation (111 end page)
+6. make example of shared_future continuation (113 page)
+7. wait for more futures (114), divide vector of 50 elements to 5 thread to calculate
+    sum of 10 elements
