@@ -1,4 +1,4 @@
-1. implement your version of condition_variable
+1. implement your version of condition_variable --- solved
 2. implement your version of std::future
 3. handle exception in std::experimental::future in then(function) (109 page)
 4. implement std::async for std::experimental::future (110 page)
